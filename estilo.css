@@ -1,5 +1,12 @@
+.cabecalho {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 10px;
+	margin: 0px 0px 20px 0px;
+	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
 .autoAtendimento {
-	color: blue;
 	text-align: right;
-	background-color: green;
+
 }
