@@ -46,6 +46,9 @@
 
 form {
 	text-align: center;
+	font-size: 13px;
+	font-family: Arial;
+
 }
 
 .btn1 {
@@ -70,7 +73,7 @@ form {
 	color: white;
 	background: rgba(0, 85, 170, 0.78);
 	border: 1px solid white;
-	padding: 5px 95px 5px 95px;
+	padding: 11px 105px 11px 105px;
 	border-radius: 8px;
 }
 
