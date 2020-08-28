@@ -16,28 +16,32 @@
 .login {
 	background-color: white;
 	width: 300px;
-	height: 350px; 
+	height: 390px; 
 	margin: 60px auto;
 	padding: 0px 0px 0px 0px;
-	border-radius: 12px;
-	border: 1px solid black;
+	border-radius: 9px;
+	border: 1px solid rgba(0, 85, 170, 0.68);
 }
 
 .titulo{
-	background: rgba(0, 85, 170, 0.88);
-	border-radius: 12px 12px 0px 0px;
+	background: rgba(0, 85, 170, 0.78);
+	border-radius: 8px 8px 0px 0px;
 	color: white;
 }
 
 .titulo h1 {
 	margin: 0;
-	font-size: 26px;
+	font-size: 18px;
 	font-family: Arial;
 	padding: 10px;
 }
 
 .nome {
 	font-size: 22px;
+	color: rgba(0, 0, 0, 0.1);
+	padding: 10px 1px 10px 1px;
+	border-radius: 6px;
+	border: 1px solid rgba(197, 197, 197, 0.68);
 }
 
 form {
@@ -45,11 +49,11 @@ form {
 }
 
 .btn1 {
-	font-size: 16px;
+	font-size: 18px;
 	color: white;
 	background: orange;
 	border: none;
-	padding: 2px 20px 2px 20px;
+	padding: 9px 20px 9px 20px;
 }
 
 .btn2 {
@@ -57,18 +61,21 @@ form {
 	color: orange;
 	background: white;
 	border: 1px solid orange;
-	padding: 2px 20px 2px 20px;
+	padding: 9px 20px 9px 20px;
 
 }
 
 .btn3 {
-	font-size: 25px;
+	font-size: 20px;
 	color: white;
-	background: rgba(0, 85, 170, 0.88);
+	background: rgba(0, 85, 170, 0.78);
 	border: 1px solid white;
 	padding: 5px 95px 5px 95px;
 	border-radius: 8px;
+}
 
+.sombra {
+	box-shadow: 0px 50px 50px rgba(0, 0, 0, 0.8);
 }
 
 a {
