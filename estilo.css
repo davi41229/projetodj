@@ -8,15 +8,60 @@
 
 .autoAtendimento {
 	text-align: right;
-
+	color: rgba(0, 0, 0, 0.3);
+	font-family: Arial;
+	font-size: 22px;
 }
 
 .login {
-	background-color: blue;
-	width: 300px;
+	background-color: white;
+	width: 350px;
 	height: 400px; 
 	margin: 60px auto;
-	text-align: center;
-	padding: 20px 20px 0px 20px;
+	padding: 0px 0px 0px 0px;
 	border-radius: 15px;
+	border: 1px solid black;
+}
+
+.titulo{
+	background-color: blue;
+	border-radius: 15px 15px 0px 0px;
+	color: white;
+}
+
+.titulo h1 {
+	margin: 0;
+	font-size: 36px;
+	font-family: Arial;
+	padding: 10px;
+}
+
+.nome {
+	font-size: 25px;
+}
+
+form {
+	text-align: center;
+}
+
+.btn1 {
+	font-size: 20px;
+	color: white;
+	background: orange;
+	border: none;
+}
+
+.btn2 {
+	font-size: 20px;
+	color: orange;
+	background: white;
+	border: 1px solid orange;
+}
+
+.btn3 {
+	font-size: 25px;
+	color: white;
+	background: rgba(0, 0, 255, 1);
+	border: 1px solid white;
+	padding: 5px 75px 5px 75px;
 }
