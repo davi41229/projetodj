@@ -1,0 +1,18 @@
+html, body {
+    
+}
+body {
+    
+    background-color: rgb();
+}
+        
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(28,28,28);
+    color: #FFF;
+    width: 100%;
+    height: 50px;    
+    text-align: center;
+    line-height: 100px;
+}
